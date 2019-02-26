@@ -1,0 +1,55 @@
+1	The	_	The	dt	DT	1	_	_	_	_	_	_	_	0
+2	tall	_	tall	jj	JJ	1	_	_	_	_	_	tall.a	_	0
+3	man	_	man	nn	NN	1	_	_	_	_	_	_	_	0
+4	ate	_	eat	vb	VB	1	_	_	_	_	_	_	_	0
+5	a	_	a	dt	DT	1	_	_	_	_	_	_	_	0
+6	big	_	big	jj	JJ	1	_	_	_	_	_	_	_	0
+7	banana	_	banana	nn	NN	1	_	_	_	_	_	_	_	0
+8	.	_	.	.	.	1	_	_	_	_	_	_	_	0
+
+1	The	_	The	dt	DT	2	_	_	_	_	_	_	_	0
+2	tall	_	tall	jj	JJ	2	_	_	_	_	_	_	_	0
+3	man	_	man	nn	NN	2	_	_	_	_	_	man.n	_	0
+4	ate	_	eat	vb	VB	2	_	_	_	_	_	_	_	0
+5	a	_	a	dt	DT	2	_	_	_	_	_	_	_	0
+6	big	_	big	jj	JJ	2	_	_	_	_	_	_	_	0
+7	banana	_	banana	nn	NN	2	_	_	_	_	_	_	_	0
+8	.	_	.	.	.	2	_	_	_	_	_	_	_	0
+
+1	The	_	The	dt	DT	3	_	_	_	_	_	_	_	0
+2	tall	_	tall	jj	JJ	3	_	_	_	_	_	_	_	0
+3	man	_	man	nn	NN	3	_	_	_	_	_	_	_	0
+4	ate	_	eat	vb	VB	3	_	_	_	_	_	eat.v	_	0
+5	a	_	a	dt	DT	3	_	_	_	_	_	_	_	0
+6	big	_	big	jj	JJ	3	_	_	_	_	_	_	_	0
+7	banana	_	banana	nn	NN	3	_	_	_	_	_	_	_	0
+8	.	_	.	.	.	3	_	_	_	_	_	_	_	0
+
+1	The	_	The	dt	DT	4	_	_	_	_	_	_	_	0
+2	tall	_	tall	jj	JJ	4	_	_	_	_	_	_	_	0
+3	man	_	man	nn	NN	4	_	_	_	_	_	_	_	0
+4	ate	_	eat	vb	VB	4	_	_	_	_	_	_	_	0
+5	a	_	a	dt	DT	4	_	_	_	_	_	_	_	0
+6	big	_	big	jj	JJ	4	_	_	_	_	_	big.a	_	0
+7	banana	_	banana	nn	NN	4	_	_	_	_	_	_	_	0
+8	.	_	.	.	.	4	_	_	_	_	_	_	_	0
+
+1	The	_	The	dt	DT	5	_	_	_	_	_	_	_	0
+2	tall	_	tall	jj	JJ	5	_	_	_	_	_	_	_	0
+3	man	_	man	nn	NN	5	_	_	_	_	_	_	_	0
+4	ate	_	eat	vb	VB	5	_	_	_	_	_	_	_	0
+5	a	_	a	dt	DT	5	_	_	_	_	_	_	_	0
+6	big	_	big	jj	JJ	5	_	_	_	_	_	_	_	0
+7	banana	_	banana	nn	NN	5	_	_	_	_	_	banana.n	_	0
+8	.	_	.	.	.	5	_	_	_	_	_	_	_	0
+
+1	I	_	I	prp	PRP	1	_	_	_	_	_	_	_	0
+2	eat	_	eat	vbp	VBP	1	_	_	_	_	_	eat.v	_	0
+3	cake	_	cake	nn	NN	1	_	_	_	_	_	_	_	0
+4	.	_	.	.	.	1	_	_	_	_	_	_	_	0
+
+1	I	_	I	prp	PRP	2	_	_	_	_	_	_	_	0
+2	eat	_	eat	vbp	VBP	2	_	_	_	_	_	_	_	0
+3	cake	_	cake	nn	NN	2	_	_	_	_	_	cake.n	_	0
+4	.	_	.	.	.	2	_	_	_	_	_	_	_	0
+
