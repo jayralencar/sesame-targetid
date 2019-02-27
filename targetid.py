@@ -73,7 +73,7 @@ def lemmatize(tokens):
 file = open(options.raw_input)
 
 savetext = ''
-
+sentence_id = 0
 for line in file.readlines():
     
     text = line
@@ -101,7 +101,7 @@ for line in file.readlines():
 
     # print(targets)
     # print(targeted)
-    sentence_id = 1
+    
     for target in targets:
         sentence = ''
         i = 1
@@ -109,11 +109,11 @@ for line in file.readlines():
             _tg = '_'
             if tg == target:
                 _tg = tg
-            line = str(i)+"\t"+word+"\t_\t"+lemma+"\t"+pos.lower()+"\t"+pos+"\t"+str(sentence_id)+"\t_\t_\t_\t_\t_\t"+_tg+"\t_\t0\n"
+            line = str(i)+"\t"+word+"\t_\t"+lemma+"\t_\t"+pos+"\t"+str(sentence_id)+"\t_\t_\t_\t_\t_\t"+_tg+"\t_\t0\n"
             sentence = sentence+line   
             i = i +1
         savetext = savetext+sentence+'\n'
-        sentence_id = sentence_id + 1
+    sentence_id = sentence_id + 1
 
     
 with open('output.conll','w') as file:
