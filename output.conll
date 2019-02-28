@@ -1,21 +1,21 @@
-1	The	_	The	_	DT	0	_	_	_	_	_	_	_	0
-2	man	_	man	_	NN	0	_	_	_	_	_	man.n	_	0
-3	ate	_	eat	_	VB	0	_	_	_	_	_	_	_	0
-4	a	_	a	_	DT	0	_	_	_	_	_	_	_	0
-5	banana	_	banana	_	NN	0	_	_	_	_	_	_	_	0
-6	.	_	.	_	.	0	_	_	_	_	_	_	_	0
+1	The	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	man	_	man	_	NN	0	_	_	_	_	_	man.n	_	O
+3	ate	_	eat	_	VB	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	banana	_	banana	_	NN	0	_	_	_	_	_	_	_	O
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
 
-1	The	_	The	_	DT	0	_	_	_	_	_	_	_	0
-2	man	_	man	_	NN	0	_	_	_	_	_	_	_	0
-3	ate	_	eat	_	VB	0	_	_	_	_	_	eat.v	_	0
-4	a	_	a	_	DT	0	_	_	_	_	_	_	_	0
-5	banana	_	banana	_	NN	0	_	_	_	_	_	_	_	0
-6	.	_	.	_	.	0	_	_	_	_	_	_	_	0
+1	The	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	man	_	man	_	NN	0	_	_	_	_	_	_	_	O
+3	ate	_	eat	_	VB	0	_	_	_	_	_	eat.v	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	banana	_	banana	_	NN	0	_	_	_	_	_	_	_	O
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
 
-1	The	_	The	_	DT	0	_	_	_	_	_	_	_	0
-2	man	_	man	_	NN	0	_	_	_	_	_	_	_	0
-3	ate	_	eat	_	VB	0	_	_	_	_	_	_	_	0
-4	a	_	a	_	DT	0	_	_	_	_	_	_	_	0
-5	banana	_	banana	_	NN	0	_	_	_	_	_	banana.n	_	0
-6	.	_	.	_	.	0	_	_	_	_	_	_	_	0
+1	The	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	man	_	man	_	NN	0	_	_	_	_	_	_	_	O
+3	ate	_	eat	_	VB	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	banana	_	banana	_	NN	0	_	_	_	_	_	banana.n	_	O
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
 

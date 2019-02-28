@@ -110,6 +110,8 @@ for line in file.readlines():
             if tg == target:
                 _tg = tg
             line = str(i)+"\t"+word+"\t_\t"+lemma+"\t_\t"+pos+"\t"+str(sentence_id)+"\t_\t_\t_\t_\t_\t"+_tg+"\t_\t0\n"
+            line = "{}\t{}\t_\t{}\t_\t{}\t{}\t_\t_\t_\t_\t_\t{}\t_\tO\n".format(
+                i,word,lemma,pos,sentence_id,_tg)
             sentence = sentence+line   
             i = i +1
         savetext = savetext+sentence+'\n'
