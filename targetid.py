@@ -5,6 +5,7 @@ from optparse import OptionParser
 
 optpr = OptionParser()
 optpr.add_option("--raw_input", type="str", metavar="FILE")
+optpr.add_option("--output",type="str", metavar="FILE", default="./output.conll")
 (options, args) = optpr.parse_args()
 
 lemmatizer =  WordNetLemmatizer()
@@ -118,5 +119,5 @@ for line in file.readlines():
     sentence_id = sentence_id + 1
 
     
-with open('output.conll','w') as file:
+with open(options.output,'w') as file:
         file.write(savetext)
